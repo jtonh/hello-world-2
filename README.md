@@ -8,4 +8,8 @@ it now includes steps for GitHub
 
 I like the work in Allstate so far!
 
+
+I am staring a new position as Senior Quant, AI/ML Expert at U.S. Bank
+
 This is for push branch to Github!
+
